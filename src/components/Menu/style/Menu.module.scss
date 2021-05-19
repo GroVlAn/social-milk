@@ -1,0 +1,8 @@
+.menu{
+	flex: 1 0 10%;
+	display: flex;
+	justify-content:center;
+	&__body{
+		text-align:left;
+	}
+}
